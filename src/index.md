@@ -1,10 +1,8 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Managing Development Teams
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Managing teams is chiefly about people and time. Firstly, you have to get the right people and give them the right responsibilities. Then, you need to figure out the right things to do at the right time. Each of these come with distinct and often conflicting chanllenges.
